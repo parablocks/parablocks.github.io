@@ -1,4 +1,4 @@
-# <img src="https://github.com/parablocks/parablocks.github.io/raw/master/logo_close.png" width=25 alt="logo"> Parablocks
+# <img src="https://github.com/parablocks/parablocks.github.io/raw/master/logo_close.png" width=25 alt="logo"> Parablocks ![Discord](https://img.shields.io/discord/760982577603149854?logo=Discord&logoColor=white)
 Parablocks is an alternative, highly parallelized Minecraft server. It is written in C# and uses heavy multithreading to take advantage of modern many-thread CPUs.
 
 ## Features
